@@ -1,5 +1,6 @@
 import random
 
+
 hello_rules = '''
 say_hello = names hello tail
 names = name names | name
